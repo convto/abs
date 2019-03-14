@@ -8,9 +8,9 @@ $ go get -u github.com/srttk/abs
 
 ## Useage
 ```
-$ cd $GOPATH/github.com/srttk/abs
+$ cd $GOPATH/src/github.com/srttk/abs
 $ abs README.md
-/your/absolute/path
+/your/absolute/path/README.md
 ```
 
 ## Lisence
