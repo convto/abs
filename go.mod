@@ -1,3 +1,3 @@
-module github.com/srttk/abs
+module github.com/convto/abs
 
 go 1.12
